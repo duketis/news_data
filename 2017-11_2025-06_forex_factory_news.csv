@@ -1,3 +1,4 @@
+utc_datetime,impact,currency,event,actual,forecast,previous
 2017-11-01T00:01:00Z,Low Impact Expected,GBP,BRC Shop Price Index y/y,-0.1%,,-0.1%
 2017-11-01T00:30:00Z,Low Impact Expected,JPY,Final Manufacturing PMI,52.8,52.5,52.5
 2017-11-01T01:45:00Z,Medium Impact Expected,CNY,Caixin Manufacturing PMI,51.0,51.0,51.0
